@@ -23,6 +23,7 @@ The authors claiming copyright, if they wish to be known, can list their names h
 * Luis Martinez
 * Nina Han
 
-Please take a look at this video for a general overview of our project!
-https://www.youtube.com/watch?v=aaOTHRIbRf8 
+Take a Look at this video for a project overview!
+[![Watch the video on YouTube](https://img.youtube.com/vi/aaOTHRIbRf8/0.jpg)](https://www.youtube.com/watch?v=aaOTHRIbRf8)
+
 
