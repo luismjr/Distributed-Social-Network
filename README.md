@@ -23,10 +23,6 @@ The authors claiming copyright, if they wish to be known, can list their names h
 * Luis Martinez
 * Nina Han
 
-
-
-# **DOCUMENTATION:**
-
-### FOLLOWING/FRIENDS API:
-
+Please take a look at this video for a general overview of our project!
+https://www.youtube.com/watch?v=aaOTHRIbRf8 
 
